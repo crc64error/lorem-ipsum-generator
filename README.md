@@ -3,4 +3,4 @@ Lorem Ipsum generator that is handy when creating websites. Enjoy for free as an
 
 # Purpose and goal
 This browser addon is great. But I am looking to adding custom formatting rules to the project.  Many
-of my web projects use '{{p}}', '{{/p}}' type tags for '<p>', '</p>', etc.
+of my web projects use '{{p}}', '{{/p}}' type tags for '&lt;p&gt;', '&lt;/p&gt;', etc.
