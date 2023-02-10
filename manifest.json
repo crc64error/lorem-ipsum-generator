@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Lorem Ipsum Generator (Default Text)",
+    "description": "Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.",
+    "version": "3.0.1",
+    "icons": {
+        "16": "icon-16.png",
+        "32": "icon-32.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    },
+    "content_scripts": [{
+        "js": [
+            "main.js"
+        ],
+        "matches": [
+            "*://*/*"
+        ]
+    }]
+}
